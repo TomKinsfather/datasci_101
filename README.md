@@ -1,2 +1,2 @@
-# datasci_101
+# datasciencecoursera
 Initial repo for coursera class
